@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Pierwsza strona internetowa</title>
+<big><big><big><marquee>Witam wszystkich na stronie poświeconej nauce HTML</marquee><big><big><big>
+<a href="index.html>Home</a>
+<head>
+<html>
